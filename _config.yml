@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: ZALF AR App
+logo: /assets/img/logo120x120.png
+description: Documentation for the ZALF AR app, created by students of Filmuniversität Bablesberg.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
