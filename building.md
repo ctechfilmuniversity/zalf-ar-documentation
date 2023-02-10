@@ -30,7 +30,7 @@ The following is documentation for those who would like to build and install the
 
 ![step2](assets/img/buildstep-2.png)
 
-6. Sign in to your icloud account
+6. Sign in to your icloud account or create one if needed
 
 ![step2.1](assets/img/buildstep-2.1.png)
 
@@ -49,6 +49,8 @@ The following is documentation for those who would like to build and install the
 ![step4](assets/img/buildstep-4.png)
 
 11. Click the 'play' button
+
+![step4.1](assets/img/buildstep-4.1.png)
 
 If you receive this pop-up message, simply autheticate with your computer's password.   
 This is a security step so that others cannot sign an app with your certificate. 
@@ -73,7 +75,7 @@ a pop-up in XCode itself.
 
 This is expected and a normal security feature of iOS. Complete the following steps: 
 
-14. On your iOS device, navigate to: settings -> privacy & security and switch developer mode on
+14. (As of iOS 16) on your iOS device, navigate to: settings -> privacy & security and switch developer mode on
 15. Then navigate to: settings > general > VPN & Device Management > Developer App (Heading) and trust your developer account
 
 Now the App on your iOS device can be launched. Head back to the app and launch it like you would any other app.   
