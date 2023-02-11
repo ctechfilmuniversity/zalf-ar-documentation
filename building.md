@@ -22,7 +22,7 @@ The following is documentation for those who would like to build and install the
 
 ![step1](assets/img/buildstep-1.png)
 
-4. Click 'Signing & Capabilities' -> team -> add an account
+4. Click 'Signing & Capabilities' > "automatically manage signing" > confirm > team > add an account
 
 ![step1.1](assets/img/buildstep-1.1.png)
 
@@ -75,7 +75,7 @@ a pop-up in XCode itself.
 
 This is expected and a normal security feature of iOS. Complete the following steps: 
 
-14. (As of iOS 16) on your iOS device, navigate to: settings -> privacy & security and switch developer mode on
+14. (As of iOS 16) on your iOS device, navigate to: settings > privacy & security and switch developer mode on
 15. Then navigate to: settings > general > VPN & Device Management > Developer App (Heading) and trust your developer account
 
 Now the App on your iOS device can be launched. Head back to the app and launch it like you would any other app.   
