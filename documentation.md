@@ -6,13 +6,26 @@ layout: default
 
 ## Table of Contents
 
+- [Introduction](#introduction)
 - [Afterthoughts](#afterthoughts)
 - [Concept Development](#concept-development)
+    - [Target User Persona](#target-user-persona)
+    - [Message](#message)
+    - [Pitch Ideas](#pitch-ideas)
+- [Design process](#design-process)
+    - [Scriptwriting](#scripwriting)
+    - [Visual Design](#visual-design)
 - [Technical Implementation](#technical-implementation)
     - [A Technical Summary](#a-technical-summary)
     - [Image Target Implementation](#image-target-implementation)
     - [Audio Implementation](#audio-implementation)
     - [Building and Testing](#building-and-testing)
+
+
+## Introduction 
+
+While designing an app for ZALF, we were faced with a difficult task of delivering complex research in a straightforward, amusing format. We  wanted to communicate ZALF’s scientific research in a playful, immersive way that would attract young audiences. 
+We decided to use technology to allow the users to become part of the story. Thanks to this approach the person using our app isn’t just a passive observer, but the center of the narrative.
 
 ## Afterthoughts
 
@@ -23,8 +36,44 @@ Based on the prototype as seen in the [demo](demo), below are some dot-points id
 - audio UI should have a play head to visualise how long the audio file is
 
 ## Concept Development
+First asked ZALF’s team what they wanted to communicate and to whom. Based on this information we came up with a concept. 
+![ideation](assets/img/Documentation1.png)
 
-Documentation on the process
+### Target User Persona
+We started from deciding on our target group. After a couple of conversations, it was clear that even though ZALF’s message is universal, it would be impossible to design an experience for everyone. 
+Our design persona lives in a big city, is young, well educated and already interested in ecological sustainability. We call her Alexa. Alexa has studied in Berlin, now is working her first job. She buys in bio supermarkets, but when she thinks about it, she doesn’t really know what is the difference between “organic” and “demeter”. She doesn’t know if it really makes any difference and when it would. Alexa would like to make informed choices, but doesn’t have time to read long publications. She likes streaming series, meeting friends, cooking, eating out, listening to podcasts and audiobooks.
+![target_user](assets/img/Documentation2.png) 
+
+### Message
+Together with ZALF we decided on a crucial message that we wanted to communicate. The message was: “Soil matters!”. While researching and exchanging ideas, we found out that soil influences almost everything around us - soil is important when we talk about subjects like food production, climate change, provision of clean water, biodiversity, etc. 
+
+Based on ZALF’s research, we initially explored four subjects that we have found the most interesting as a base of  an interactive experience:
+- Soil health & soil fertility
+- Soil degradation & erosion
+- Soils and climate change
+- Legumes
+![ideation](assets/img/Documentation3.png) 
+
+### Pitch ideas
+We came up with 5 ideas for interactive projects that we have pitched to ZALF teams. ZALF has decided on an “interactive cooking experience” that we have developed further. 
+![ideation](assets/img/Documentation4.png) 
+![pitch_ideas](assets/img/Documentation5.png) 
+
+## Design Process
+
+Our interactive cooking experience is inspired by location-based audio walks. Experiences with added audio layer are really transportive for the listener. 
+
+Our cooking experience is designed for everyone's kitchen. We add interactive listening and AR layers to the physical world, illuminating stories hidden in the ingredients and dishes prepared. We would like to indulge curiosity, as our experience has the potential to completely reimagine how we process our surroundings both old and new, bringing the past, present, and future of spaces to life simultaneously.
+
+### Scriptwriting
+We decided to base our cooking experience on legumes-rich recipe for mujaddra. We have started with writing a script for the audio layer for the app. We wanted it to be informative and entertaining. We have succeeded in delivering the message about the importance of changing our diet to one rich in legumes, while keeping light, playful tone. 
+
+### Visual Design
+Based on the script, we have designed the recipe page with markers for the AR app. 
+For the graphics to work well as markers, we had to keep in mind to create illustrations with many tiny details and high contrast, so the AR app can easily identify them. 
+![recipe](assets/img/Recipe.png) 
+
+
 
 ## Technical Implementation
 
@@ -177,3 +226,6 @@ can be tested with the intended hardware.
 Apart from some initial bugs due to version incompatibilty between the target iOS device, Unity and Xcode, 
 the process was very smooth and painless. Below is an early test of the AR system. The final product is presented 
 on the [demo](demo) page.
+
+
+[def]: #process-introduction

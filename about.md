@@ -15,8 +15,8 @@ The overarching thematic focus of the cooperation is science communication. For 
 | Name | Role | 
 | :--- | :--- |
 | [Prof. Dr.-Ing. Angela Brennecke](https://www.filmuniversitaet.de/portrait/person/angela-brennecke)  | Project Lead Filmuni |
-| Urzsula Przybylska (CTech`19)   | Concept Design & Narration |
-| Rita Eperjesi (CTech`20)   | Visual Design & Communication |
+| [Ula Sowa Przybylska](https://www.ulasowa.com) (CTech`20)   | Concept Design, Storytelling & Animation |
+| Rita Eperjesi (CTech`19)   | Visual Design & Communication |
 | [Tillman Schäuble](https://www.tillmanjex.info) (CTech`21)   | App Development & Audio |
 | [Dr. Michael Witt](https://www.filmuniversitaet.de/portrait/person/michael-witt)   | AR & Technical Consultant |
 
