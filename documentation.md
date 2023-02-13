@@ -4,6 +4,16 @@ layout: default
 
 # Documentation
 
+[test](#a-technical-summary)
+
+## Afterthoughts
+
+Based on the prototype as seen in the [demo](demo), below are some dot-points identifying what we would improve.
+
+- less markers on the page, creating less clutter and difficulty for the AR engine
+- markers that have auto-play content should be on their own page so that other elements of the app are not interupted accidentally
+- audio UI should have a play head to visualise how long the audio file is
+
 ## Concept Development
 
 Documentation on the process
