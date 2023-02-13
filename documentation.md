@@ -177,5 +177,3 @@ can be tested with the intended hardware.
 Apart from some initial bugs due to version incompatibilty between the target iOS device, Unity and Xcode, 
 the process was very smooth and painless. Below is an early test of the AR system. The final product is presented 
 on the [demo](demo) page.
-
-![early AR test](assets/video/zalf-initial-test-2.mov)
