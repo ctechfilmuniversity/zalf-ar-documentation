@@ -4,9 +4,9 @@ layout: default
 
 # Zalf Mujadarra AR Demo
 
-////////////////////
-demo video goes here
-////////////////////
+[Click here to view and/or download the demo](https://owncloud.gwdg.de/index.php/s/bwc8wzMSfA3TAHW).
+
+## Recipe Page Design
 
 ![Mujadarra recipe and page design](downloads/mujadarra-recipe.jpg)
 

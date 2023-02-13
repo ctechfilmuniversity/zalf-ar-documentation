@@ -4,7 +4,15 @@ layout: default
 
 # Documentation
 
-[test](#a-technical-summary)
+## Table of Contents
+
+- [Afterthoughts](#afterthoughts)
+- [Concept Development](#concept-development)
+- [Technical Implementation](#technical-implementation)
+    - [A Technical Summary](#a-technical-summary)
+    - [Image Target Implementation](#image-target-implementation)
+    - [Audio Implementation](#audio-implementation)
+    - [Building and Testing](#building-and-testing)
 
 ## Afterthoughts
 
@@ -19,6 +27,9 @@ Based on the prototype as seen in the [demo](demo), below are some dot-points id
 Documentation on the process
 
 ## Technical Implementation
+
+An early concept and technical test:   
+![early  test](assets/img/early-test.png)
 
 ### A Technical Summary
 
@@ -37,7 +48,7 @@ AR enabled. This meaning, that the user can view the printed image via their pho
 at which point the associated AR content will be shown on their screen. 
 
 
-### Image Target Implementation Process
+### Image Target Implementation
 
 The afore mentioned process is achieved using the 3d engine, Unity.    
 Below is a screencapture of the image targets along with the paired AR content, arranged in Unity. 
@@ -59,7 +70,7 @@ what it's seeing as an iamge target, but also to differentiate it from other ima
 ![image target features](assets/img/image-target-features.png)
 
 
-### Audio Implementation Process
+### Audio Implementation
 
 The audio playback in the Zalf Mujadarra App followed the below steps:
 
