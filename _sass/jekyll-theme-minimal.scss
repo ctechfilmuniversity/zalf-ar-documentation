@@ -173,7 +173,7 @@ ul.downloads {
 }
 
 strong {
-  color:#222;
+  color:var(--text-normal);
   font-weight:700;
 }
 
@@ -185,7 +185,7 @@ strong {
 .downloads a strong {
   font-size:14px;
   display:block;
-  color:#222;
+  color:var(--yellow);
 }
 
 section {

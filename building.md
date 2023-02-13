@@ -16,7 +16,7 @@ The following is documentation for those who would like to build and install the
 
 ## Building
 
-1. Download the XCode project here: 
+1. Clone the [zalf-mujadarra-xcode repo](https://github.com/ctechfilmuniversity/zalf-mujadarra-xcode) 
 2. Navigate to the project folder and open the `.xcodeproj` file 
 3. Focus on (select) the project root 
 

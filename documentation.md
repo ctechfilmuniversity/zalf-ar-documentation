@@ -147,7 +147,9 @@ public class audio_system_control : MonoBehaviour
 ```
 ### Building and Testing
 
-Building and testing is a process of exporting the Unity project to an [Xcode](https://developer.apple.com/xcode/) 
+If you would like to build the project onto iOS yourself, please see the [building page](building).
+
+Building and testing is a process of exporting the Unity project to an Xcode
 project, opening the project in Xcode and exporting to a target iOS device upon when the AR app 
 can be tested with the intended hardware.
 
