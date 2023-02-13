@@ -5,6 +5,7 @@
     --yellow: #c7aa77;
     --headings: #f5f5f5;
     --text-normal: #d5d5d5;
+    --code-bg: #879dab;
 }
 body {
   background-color: #171738;
@@ -72,20 +73,19 @@ blockquote {
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  background: #879dab;
   color:var(--text-normal);
 }
 
 pre {
   padding:8px 15px;
-  background: #879dab;
+  background: var(--code-bg);
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
 }
 
 .highlight {
-  background-color: #3c3c4a;
+  background-color: var(--code-bg);
 }
 
 table {
