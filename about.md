@@ -22,9 +22,10 @@ The overarching thematic focus of the cooperation is science communication. For 
 
 
 
-### Leibnis-Zentrum für Agrarlandschaftsforschung (ZALF)
+### Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF)
 
 | Name | Role | 
 | :--- | :--- |
-| Hendrik Schneider | Project Lead ZALF |
-| Kristina Backhaus  | Science Manager & Consultant |
+| Kristina Backhaus  | Project Lead ZALF |
+| Hendrik Schneider | Science Manager & Consultant |
+| Ika Notz | Research Consultation |
