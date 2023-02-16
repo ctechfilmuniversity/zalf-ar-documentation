@@ -16,7 +16,7 @@ The overarching thematic focus of the cooperation is science communication. For 
 | :--- | :--- |
 | [Prof. Dr.-Ing. Angela Brennecke](https://www.filmuniversitaet.de/portrait/person/angela-brennecke)  | Project Lead Filmuni |
 | [Ula Sowa Przybylska](https://www.ulasowa.com) (CTech`20)   | Concept Design, Storytelling & Animation |
-| Rita Eperjesi (CTech`19)   | Visual Design & Communication |
+| [Rita Eperjesi ](https://www.rita.cloud)(CTech`19)   | Visual Design & Communication |
 | [Tillman Schäuble](https://www.tillmanjex.info) (CTech`21)   | App Development & Audio |
 | [Dr. Michael Witt](https://www.filmuniversitaet.de/portrait/person/michael-witt)   | AR & Technical Consultant |
 
@@ -28,4 +28,4 @@ The overarching thematic focus of the cooperation is science communication. For 
 | :--- | :--- |
 | Kristina Backhaus  | Project Lead ZALF |
 | Hendrik Schneider | Science Manager & Consultant |
-| Ika Notz | Research Consultation |
+| Inka Notz | Research Consultation |
