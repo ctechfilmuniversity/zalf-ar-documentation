@@ -4,7 +4,10 @@ layout: default
 
 # Zalf Mujadarra AR Demo
 
-[Click here to view and/or download the demo](https://owncloud.gwdg.de/index.php/s/bwc8wzMSfA3TAHW).
+## Demo Video 
+- [Click here to view and/or download the **demo video**](https://owncloud.gwdg.de/index.php/s/bwc8wzMSfA3TAHW).  
+
+![step1](assets/img/videosnapshot.png)
 
 ## Recipe Page Design
 
